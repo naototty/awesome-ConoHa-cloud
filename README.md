@@ -231,7 +231,7 @@ ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管
 
 ## Compairing
 
-* 2015
+* 2015/11/??
   * https://server-domain.info/report/conoha-rentaled-201511.html
     - ConoHaを借りてみたので、さくらのVPSと機能を比べてみた
     - 2015/11/?? phpとmysql が使えるレンタルサーバー・ドメイン選びのポイント
@@ -250,7 +250,7 @@ ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管
 
 * desktop
   * http://shimadah.blogspot.com/2016/12/conoha-advent-calendar-25conoha-api.html
-    - 
+    - ConoHa Advent Calendar 25日目：ConoHa APIで、このはシンクライアントを試作する
 
 
 ## user monitoring
