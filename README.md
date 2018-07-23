@@ -202,6 +202,9 @@ awesome ConoHa cloud
     * 開発者に聞く～自由な構成が可能な新VPSサービス「ConoHa」とは
 「ITエンジニアの方に使って欲しくて作った」GMOの新VPSブランド
 
+[return to menu](#menu)
+
+<div id="technical_articles_and_blogs_conoha2"></div>
 
 ## technical articles and blogs ConoHa2
 
@@ -226,11 +229,19 @@ ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管
     * Minecraftサーバーテンプレート
 
 
+[return to menu](#menu)
+
+<div id="conoha_start_up_script"></div>
+
 ## ConoHa Start-up script
 
-* 2017/07/05
-  * https://blog.oyasu.info/2017/07/05/5906/
-    * ConoHa のスタートアップスクリプトを使って VM を作成してみた（CentOS 7 編）
+* [ConoHa スタートアップスクリプト](https://www.conoha.jp/function/startupscript/)
+  * [スタートアップスクリプトを使ってLet's Encryptの設定をする](https://www.conoha.jp/guide/startupscript_letsencrypt.php?btn_id=startupscript_guide)
+  * 追加ディスクセットアップ
+  * [NextCloudインストール](https://www.conoha.jp/function/startupscript/scripts/setup_nextcloud.sh)
+  * [CentOSパッケージアップデート](https://www.conoha.jp/function/startupscript/scripts/update_all_package_rpm.sh)
+
+* 2017/07/05 [ConoHa のスタートアップスクリプトを使って VM を作成してみた（CentOS 7 編）](https://blog.oyasu.info/2017/07/05/5906/)
 
 
 ## Tools
@@ -362,12 +373,14 @@ ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管
 * Linux desktop
   * [ConoHa Advent Calendar 25日目：ConoHa APIで、このはシンクライアントを試作する](http://shimadah.blogspot.com/2016/12/conoha-advent-calendar-25conoha-api.html)
 
+
 ## Windows Server
 * Windows Container
   * 2018-04-25 [ConoHa が Windows Server に対応したので契約してみた](https://blog.shibayan.jp/entry/20180425/1524589641)
 
 * benchmark
   * 2018-04-24 [ConoHa for Windows Server がリリースされたので、Windows Server 2016 の動作検証をしてみた](https://blog.oyasu.info/2018/04/24/6471/)
+
 
 ## user monitoring
 
@@ -402,11 +415,8 @@ ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管
 
 ## Advent Calender
 
-* 2015
-  * https://qiita.com/advent-calendar/2015/conoha
-* 2016
-  * https://qiita.com/advent-calendar/2016/conoha
-* 2017
-  * https://qiita.com/advent-calendar/2017/conoha
+* [2015 Advent Calender](https://qiita.com/advent-calendar/2015/conoha)
+* [2016 Advent Calender](https://qiita.com/advent-calendar/2016/conoha)
+* [2017 Advent Calender](https://qiita.com/advent-calendar/2017/conoha)
 
 
