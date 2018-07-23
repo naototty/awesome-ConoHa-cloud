@@ -10,8 +10,8 @@ awesome ConoHa cloud
   * [Before ConoHa birth](#before_conoHa_birth)
   * [ConoHa1 to Before ConoHa2](#conoHa1_to_before_conoHa2)
   * [ConoHa2](#conoHa2)
-* [the News of ConoHa chan](#the-news-of-conoHa-chan)
-* [ConoHa events](#conoHa-events)
+* [the News of ConoHa chan](#the_news_of_conoHa_chan)
+* [ConoHa events](#conoHa_events)
 * [technical articles ConoHa1](#technical-articles-conoHa1)
 * [technical articles and blogs ConoHa2](#technical-articles-and-blogs-conoHa2)
 * [ConoHa Start-up script](#conoHa-start-up-script)
@@ -55,7 +55,7 @@ awesome ConoHa cloud
 
 ## History
 
-<div name="before_conoha_birth"></div>
+<div id="before_conoHa_birth"></div>
 
 ### Before ConoHa birth
 
@@ -112,9 +112,10 @@ awesome ConoHa cloud
 * Opensource community発表
   * (2013-02-23) [OSC 2013 Spring Tokyo: OpenStack + KVM = お名前.com VPS ~開発担当者が語る、ここだけの裏話 2013~](https://www.slideshare.net/chroum/openstack-kvm-ipv6-onamecom-next-folsomgrizzly-service-development-status)
 
-             [return to menu](#menu)
+[return to menu](#menu)
 
-<div name="conoha1_to_before_conoha2"></div>
+<div id="conoha1_to_before_conoha2"></div>
+
 ### ConoHa1 to Before ConoHa2
 
 * 2013/07/04 [GMOインターネット、VPS新ブランド「ConoHa byGMO」を提供開始～IPv6、複数IPアドレス、ローカルネットワークに対応、イメージキャラクター「美雲このは」初登場](https://cloud.watch.impress.co.jp/docs/news/606431.html
@@ -136,7 +137,8 @@ awesome ConoHa cloud
 
 [return to menu](#menu)
 
-<div name="conoha2"></div>
+<div id="conoha2"></div>
+
 ### ConoHa2
 
 * 2015/05/18 [GMO、VPSサービス「ConoHa」をリニューアル、全ストレージにSSDを採用, SSD 50GB, 3 location](https://cloud.watch.impress.co.jp/docs/news/702382.html)
@@ -150,6 +152,10 @@ awesome ConoHa cloud
 * 2017/06/30 [【リリース】APIを利用したVPS作成におけるスタートアップスクリプト機能追加](https://www.conoha.jp/news/?ap=2015051386)
 
 
+[return to menu](#menu)
+
+<div id="the_news_of_conoha_chan"></div>
+
 ## the News of ConoHa chan
 
 * 2013/12/29 [GMO×スタジオカラー、フル3DCGショートアニメ「超亜空間防壁チーズ・ナポリタン」を公開](https://www.gmo.jp/news/article/?id=4374)
@@ -157,6 +163,10 @@ awesome ConoHa cloud
 * 2013/12/31 [「超亜空間防壁チーズ・ナポリタン」全編公開　コミックマーケット85でのDVD配布も絶好調](https://animeanime.jp/article/2013/12/31/16922.html)
 
 * 2014/05/25 [「公式」 美雲このはの斜め上いくコミュニティ](http://com.nicovideo.jp/community/co2392550?ref=search_tag_co)
+
+[return to menu](#menu)
+
+<div id="conoha_event"></div>
 
 ## ConoHa events
 
@@ -168,6 +178,10 @@ awesome ConoHa cloud
 
 * case study
   * (2017-05 ~ ) [けーすた！ CASE STUDY LIGHTNING TALK](https://casestudy.connpass.com/)
+
+[return to menu](#menu)
+
+<div id="technical_articles_conoha1"></div>
 
 ## technical articles ConoHa1
 
