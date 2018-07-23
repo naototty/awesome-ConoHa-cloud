@@ -3,10 +3,23 @@ awesome ConoHa cloud
 
 ## <i class="fa fa-cube" style="font-size:1em;"></i>[menu](#menu)
 
-* [about awesome](#1)
-* [History / Before ConoHa birth](#2)
+* [about awesome](#about-awesome)
+* History
+  * [Before ConoHa birth](#Before-ConoHa-birth)
+  * [ConoHa1 to Before ConoHa2](#ConoHa1-to-Before-ConoHa2)
+  * [ConoHa2](#ConoHa2)
+* [the News of ConoHa chan](#the-News-of-ConoHa-chan)
+* [ConoHa events](#ConoHa-events)
+* [technical articles ConoHa1](#technical-articles-ConoHa1)
+* [technical articles and blogs ConoHa2](#technical-articles-and-blogs-ConoHa2)
+* [ConoHa Start-up script](#ConoHa-Start-up-script)
+* [Tools, ConoHa活用ツール](#Tools)
+* [Compairing, VPSの比較](#Compairing)
+* [installing, installing記事/blog](#installing)
+* [user monitoring, 監視設定記事](#user-monitoring)
+* [ConoHa1 to ConoHa2 migration or Cloud image migration, ConoHaのVPSマイグレーション記事](#ConoHa1-to-ConoHa2-migration-or-Cloud-image-migration)
+* [Advent Calender](#Advent-Calender)
 
-<dev id="1"></dev>
 ## abount awesome
 
 "awesome" とは?
@@ -26,8 +39,10 @@ awesome ConoHa cloud
 
 [return to menu](#menu)
 
-<dev id="2"></dev>
-## History / Before ConoHa birth
+
+## History
+
+### Before ConoHa birth
 
 * vps VZ時代                                                                                                                          
   * (2009-09-17) [2009.09.17 【お知らせ】自由度と拡張性を追及した本格運用向けレンタルサーバー「VPS」を提供開始！](https://www.onamae.com/news/domain/090917.html)
@@ -60,8 +75,8 @@ awesome ConoHa cloud
 
 [return to menu](#menu)
 
-## History / ConoHa1 to Before ConoHa2
 
+### ConoHa1 to Before ConoHa2
 
 * 2013/07/04 [GMOインターネット、VPS新ブランド「ConoHa byGMO」を提供開始～IPv6、複数IPアドレス、ローカルネットワークに対応、イメージキャラクター「美雲このは」初登場](https://cloud.watch.impress.co.jp/docs/news/606431.html
  
@@ -80,7 +95,8 @@ awesome ConoHa cloud
 * ConoHa1, OpenStack Havana; Object Storage
   * (2014/09/03) [GMOインターネット：「ConoHa byGMO」で「オブジェクトストレージ」提供開始](https://japan.cnet.com/release/30079817/)
 
-## History / ConoHa2
+
+### ConoHa2
 
 * 2015/05/18 [GMO、VPSサービス「ConoHa」をリニューアル、全ストレージにSSDを採用, SSD 50GB, 3 location](https://cloud.watch.impress.co.jp/docs/news/702382.html)
 
@@ -93,7 +109,7 @@ awesome ConoHa cloud
 * 2017/06/30 [【リリース】APIを利用したVPS作成におけるスタートアップスクリプト機能追加](https://www.conoha.jp/news/?ap=2015051386)
 
 
-## このは 記事
+## the News of ConoHa chan
 
 * 2013/12/29
     * GMO×スタジオカラー、フル3DCGショートアニメ「超亜空間防壁チーズ・ナポリタン」を公開
@@ -107,7 +123,7 @@ awesome ConoHa cloud
   * http://com.nicovideo.jp/community/co2392550?ref=search_tag_co
     * [公式] 美雲このはの斜め上いくコミュニティ 
 
-## ConoHaイベント
+## ConoHa events
 
 * 2013-07-12,13,14
   * https://akiba.keizai.biz/column/65/
@@ -117,7 +133,7 @@ awesome ConoHa cloud
   * https://conoha.doorkeeper.jp/events/14471
     * 出張このべん：猫カフェ×Ejectユーザー会、奇跡のコラボハンズオン！ConoHa byGMO
 
-## ConoHa1 記事
+## technical articles ConoHa1
 
 * 2013/07/31
   * https://internet.watch.impress.co.jp/docs/column/conoha/609575.html
@@ -137,7 +153,8 @@ awesome ConoHa cloud
 「ITエンジニアの方に使って欲しくて作った」GMOの新VPSブランド
 
 
-## ConoHa2 記事/blog
+## technical articles and blogs ConoHa2
+
 * 2018/04/18
   * https://www.gmo.jp/report/single/?art_id=226
     * 第216回 PowerShellでConoHaをどうにかしてみる-Vol.3
@@ -313,7 +330,7 @@ ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管
   
 
 
-## ConoHa1 to ConoHa2 migration / Cloud image migration
+## ConoHa1 to ConoHa2 migration or Cloud image migration
 
 * migration by dump
   * http://www.zumwalt.info/blog/2015/05/migrate_newconoha/
