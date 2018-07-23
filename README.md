@@ -55,7 +55,7 @@ awesome ConoHa cloud
 
 ## History
 
-<div id="before_conoHa_birth"></div>
+<div id="before_conoha_birth"></div>
 
 ### Before ConoHa birth
 
