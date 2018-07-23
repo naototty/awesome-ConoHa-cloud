@@ -5,7 +5,7 @@ awesome ConoHa cloud
 ## <i class="fa fa-cube" style="font-size:1em;"></i>[menu](#menu)
 
 * [about awesome](#about-awesome)
-* History
+* [History](#history)
   * [Before ConoHa birth](#before-conoHa-birth)
   * [ConoHa1 to Before ConoHa2](#conoHa1-to-before-conoHa2)
   * [ConoHa2](#conoHa2)
@@ -22,6 +22,7 @@ awesome ConoHa cloud
 * [Advent Calender](#advent-calender)
 
 
+<div id="about-awesome"></div>
 ## abount awesome
 
 "awesome" とは?
@@ -47,9 +48,10 @@ awesome ConoHa cloud
 
 [return to menu](#menu)
 
-
+<div id="history"></div>
 ## History
 
+<div id="before-conoha-birth"></div>
 ### Before ConoHa birth
 
 * vps VZ時代                                                                                                                          
@@ -83,6 +85,9 @@ awesome ConoHa cloud
 * CloudStack
   * (2012-04-03) [米Citrix、「CloudStack」をApache Software Foundationに寄贈](https://mag.osdn.jp/12/04/04/0442220)
     - CloudStackの選択肢もちょっと頭をよぎるが、Single service構造だったので、見送る
+
+* tenten.vn
+  * (2012-04-23) [GMOインターネット、ベトナムでドメイン登録事業開始　RunSystem社を通じてドメイン登録サービス「TEN TEN.vn」を提供](https://japan.cnet.com/release/30018544/)
 
 * pixiv
   * (2012-06-01) [pixivでGMOアプリクラウドの公式キャラクターを募集 - 内田真礼が声を担当](https://news.mynavi.jp/article/20120604-a020/)
@@ -136,17 +141,11 @@ awesome ConoHa cloud
 
 ## the News of ConoHa chan
 
-* 2013/12/29
-    * GMO×スタジオカラー、フル3DCGショートアニメ「超亜空間防壁チーズ・ナポリタン」を公開
-  * https://www.gmo.jp/news/article/?id=4374
+* 2013/12/29 [GMO×スタジオカラー、フル3DCGショートアニメ「超亜空間防壁チーズ・ナポリタン」を公開](https://www.gmo.jp/news/article/?id=4374)
 
-* 2013/12/31
-  * https://animeanime.jp/article/2013/12/31/16922.html
-    * 「超亜空間防壁チーズ・ナポリタン」全編公開　コミックマーケット85でのDVD配布も絶好調
+* 2013/12/31 [「超亜空間防壁チーズ・ナポリタン」全編公開　コミックマーケット85でのDVD配布も絶好調](https://animeanime.jp/article/2013/12/31/16922.html)
 
-* 2014/05/25
-  * http://com.nicovideo.jp/community/co2392550?ref=search_tag_co
-    * [公式] 美雲このはの斜め上いくコミュニティ 
+* 2014/05/25 [「公式」 美雲このはの斜め上いくコミュニティ](http://com.nicovideo.jp/community/co2392550?ref=search_tag_co)
 
 ## ConoHa events
 
@@ -355,7 +354,8 @@ ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管
 
 * billing API monitoring
   * https://yoku0825.blogspot.com/2015/12/conohabilling-alert.html
-  
+
+
 ## ConoHa1 to ConoHa2 migration or Cloud image migration
 
 * migration by dump
