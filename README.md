@@ -8,7 +8,7 @@ awesome ConoHa cloud
 * [about awesome](#about_awesome)
 * [History](#history)
   * [Before ConoHa birth](#before_conoha_birth)
-  * [ConoHa1 to Before ConoHa2](#conoha1_to_before_conoHa2)
+  * [ConoHa1 to Before ConoHa2](#conoha1_to_before_conoha2)
   * [ConoHa2](#conoha2)
 * [the News of ConoHa chan](#the_news_of_conoha_chan)
 * [ConoHa events](#conoha_events)
