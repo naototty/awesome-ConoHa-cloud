@@ -3,10 +3,12 @@ awesome ConoHa cloud
 
 ## <i class="fa fa-cube" style="font-size:1em;"></i>[menu](#menu)
 
-* [about awesome](#abount awesome)
-* [History / Before ConoHa birth](#History / Before ConoHa birth)
+* [about awesome](#1)
+* [History / Before ConoHa birth](#2)
 
+<dev id="1"></dev>
 ## abount awesome
+
 "awesome" とは?
 そのカテゴリについてのすごいリンク集
 
@@ -24,6 +26,7 @@ awesome ConoHa cloud
 
 [return to menu](#menu)
 
+<dev id="2"></dev>
 ## History / Before ConoHa birth
 
 * vps VZ時代                                                                                                                          
