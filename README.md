@@ -1,6 +1,7 @@
 # awesome-ConoHa-cloud
 awesome ConoHa cloud
 
+<a id="index"></a>
 ## <i class="fa fa-cube" style="font-size:1em;"></i>[menu](#menu)
 
 * [about awesome](#about-awesome)
@@ -20,6 +21,7 @@ awesome ConoHa cloud
 * [ConoHa1 to ConoHa2 migration or Cloud image migration, ConoHaのVPSマイグレーション記事](#conoHa1-to-conoHa2-migration-or-cloud-image-migration)
 * [Advent Calender](#advent-calender)
 
+
 ## abount awesome
 
 "awesome" とは?
@@ -34,8 +36,14 @@ awesome ConoHa cloud
 * ex) [awesome Cloud Native](https://jimmysong.io/awesome-cloud-native/)
 
 * ex) [A curated list for awesome OpenStack links!](https://github.com/ntk148v/awesome-openstack)
-
 * ex) [A curated list for awesome openstack links](https://github.com/ramitsurana/awesome-openstack)
+
+* ex) [A curated list of awesome open source workflow engines](https://github.com/meirwah/awesome-workflow-engines)
+
+* ex) [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
+* ex) [Awesome Serverless](https://github.com/pmuens/awesome-serverless)
+* ex) [Awesome Serverless](https://github.com/vegasbrianc/awesome-serverless-1)
+
 
 [return to menu](#menu)
 
@@ -55,26 +63,43 @@ awesome ConoHa cloud
 
 * GMOアプリクラウド、リリース
   * (2010-08-03) [GMOアプリクラウド　正式リリースしました](https://cloud.gmo.jp/news/10080300.html)
+    - Virtuozzo ~ libvirt + xen + GMO original controller時代
 
 * GMOアプリクラウド、ver2.0(KVM)リリース
   * (2011-03-25) [Ver2.0 ＆ USデータセンター 提供開始しました](https://cloud.gmo.jp/news/11032500.html)
+    - Virtuozzo ~ libvirt + KVM + GMO original controller時代
+    - クラウド時代到来、莫大なノード数が必要になる
+    - 次期インフラとして、Eucaliptus, OpenStack検証が始まる (OpenStack Cactus, OpenStack Diablo)
+
+* OpenStack Diablo release
+  * (2011-09-22) [OpenStack Diablo release](https://releases.openstack.org/)
+    - 検証結果、新規実装されたkeystoneがまともに動かないことがわかったが、運用で回避することに
 
 * vps kvm
   * (2012-03-22) [［VPS］ お名前.comの新VPS「KVMプラン」が正式リリース](https://www.onamae.com/news/domain/120321_5.html)
   * (2012-03-22) [GMOインターネット、「お名前.com　レンタルサーバー VPS」、「KVMプラン」 正式提供開始～正式提供に合わせ、充実した新仮想専用サーバーとしてプラン内容を見直し～](https://japan.cnet.com/release/30016763/)
+    - OpenStack Diabloを使ったVPSリリース(~サービス提供中)
+
+* CloudStack
+  * (2012-04-03) [米Citrix、「CloudStack」をApache Software Foundationに寄贈](https://mag.osdn.jp/12/04/04/0442220)
+    - CloudStackの選択肢もちょっと頭をよぎるが、Single service構造だったので、見送る
 
 * pixiv
   * (2012-06-01) [pixivでGMOアプリクラウドの公式キャラクターを募集 - 内田真礼が声を担当](https://news.mynavi.jp/article/20120604-a020/)
   * (2012-06-01) [「あなたのキャラを内田真礼が演じる！　GMOアプリクラウド公式キャラクター募集」応募作品一覧](https://www.pixiv.net/contest/gmo_appscloud.php)
 
-* K-OF 2012発表
-  * (2012-08-03) [2012 OpenStack + KVM = onamae.com VPS #2 ~ vnc and snapshot ~](https://www.slideshare.net/chroum/openstack-vpskvmonamecom2snapshot)
+* Opensource community発表
+  * (2012-08-03) [OSC 2012 Kyoto: OpenStack + KVM = お名前.com VPS ~開発担当者が語る、ここだけの裏話~](https://www.slideshare.net/chroum/2012-osc-kyoto-openstack-vps-kvm)
 
 * GMOアプリクラウド、美雲あんず
   * (2012-09-20) (TGS2012: GMOインターネットのブースに痛車降臨！　ツインテールの美雲あんずがお待ちしてます。モデルキャラの声優は内田真礼さん。)(http://nlab.itmedia.co.jp/nl/articles/1209/20/news100.html)
 
-[return to menu](#menu)
+  * (2012-11-10) [K-OF 2012, Osaka: OpenStack + KVM = onamae.com VPS #2 ~ vnc and snapshot ~](https://www.slideshare.net/chroum/openstack-vpskvmonamecom2snapshot)
 
+* Opensource community発表
+  * (2013-02-23) [OSC 2013 Spring Tokyo: OpenStack + KVM = お名前.com VPS ~開発担当者が語る、ここだけの裏話 2013~](https://www.slideshare.net/chroum/openstack-kvm-ipv6-onamecom-next-folsomgrizzly-service-development-status)
+
+[return to menu](#menu)
 
 ### ConoHa1 to Before ConoHa2
 
@@ -125,13 +150,14 @@ awesome ConoHa cloud
 
 ## ConoHa events
 
-* 2013-07-12,13,14
-  * https://akiba.keizai.biz/column/65/
-    * 秋葉原に電子の座敷わらし「美雲このは」－GMOのVPS新ブランド「ConoHa」提供開始で
+* Akihabara Events
+  * 2013-07-12,13,14 [秋葉原に電子の座敷わらし「美雲このは」－GMOのVPS新ブランド「ConoHa」提供開始で](https://akiba.keizai.biz/column/65/)
 
-* 2014-09-27（土）10:00 - 11:30
-  * https://conoha.doorkeeper.jp/events/14471
-    * 出張このべん：猫カフェ×Ejectユーザー会、奇跡のコラボハンズオン！ConoHa byGMO
+* Eject users Hands on
+  * 2014-09-27 [出張このべん：猫カフェ×Ejectユーザー会、奇跡のコラボハンズオン！ConoHa byGMO](https://conoha.doorkeeper.jp/events/14471)
+
+* case study
+  * (2017-05 ~ ) [けーすた！ CASE STUDY LIGHTNING TALK](https://casestudy.connpass.com/)
 
 ## technical articles ConoHa1
 
@@ -186,17 +212,15 @@ ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管
 ## Tools
 
 * ConoHa-CLI (golang) @miyabisun
-  * https://github.com/miyabisun/conoha-cli
-  * https://qiita.com/miyabisun/items/558cede20bbbede2fdbb
-    * ConoHa CLI でVPSインスタンスをドカドカ建てる (ConoHa Advent Calendar 2017 17日目)
+  * [ConoHa CLI でVPSインスタンスをドカドカ建てる @miyabisun](https://qiita.com/miyabisun/items/558cede20bbbede2fdbb)
+  * [github: ConoHa CLI @miyabisun](https://github.com/miyabisun/conoha-cli)
 
 * ConoHa CLI (python3) @yuuki0xff(@yuuki)
-  * https://github.com/yuuki0xff/conoha-cli
-  * https://pypi.org/project/conoha-cli/
+  * 2016-09-19 [pypi: conoha-cli は ConoHa API のコマンドラインインターフェースとPython3用ライブラリです](https://pypi.org/project/conoha-cli/)
+  * [github: ConoHa CLI (python3) @yuuki0xff(@yuuki)](https://github.com/yuuki0xff/conoha-cli)
   
-
 * ConoHa ISO CLI (golang) @hironobu-s
-  * https://github.com/hironobu-s/conoha-iso
+  * [github: ConoHa ISO CLI (golang binary) @hironobu-s](https://github.com/hironobu-s/conoha-iso)
   
 
 * ConoHa novassh console CLI (golang) @hironobu-s
@@ -300,36 +324,38 @@ ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管
 ## installing
 
 * wordpress
-  * https://blog.ncrs.jp/conoha%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%B8wordpress%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AE%E5%85%A8%E8%A1%8C%E7%A8%8B/
-    - ConohaサーバーへWordPressをインストールするまでの全行程（１）Conohaサーバーの立ち上げ
+  * [ConohaサーバーへWordPressをインストールするまでの全行程（１）Conohaサーバーの立ち上げ](https://blog.ncrs.jp/conoha%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%B8wordpress%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AE%E5%85%A8%E8%A1%8C%E7%A8%8B/)
 
+  * [KUSAGANI for ConoHa](https://kusanagi.tokyo/cloud/kusanagi-for-conoha/)
+  * [KUSANAGI(WordPress)の初期設定](https://kusanagi.tokyo/document/kusanagi-init/)
+  * [KUSANAGI(WordPress)のプロビジョニング](https://kusanagi.tokyo/document/kusanagi-provision/)
 
 * concrete5
-  * https://www.conoha.jp/guide/concrete5.php
-    - concrete5アプリケーションイメージの使い方
+  * [concrete5アプリケーションイメージの使い方](https://www.conoha.jp/guide/concrete5.php)
 
-* desktop
-  * http://shimadah.blogspot.com/2016/12/conoha-advent-calendar-25conoha-api.html
-    - ConoHa Advent Calendar 25日目：ConoHa APIで、このはシンクライアントを試作する
 
+## Linux Desktop
+* Linux desktop
+  * [ConoHa Advent Calendar 25日目：ConoHa APIで、このはシンクライアントを試作する](http://shimadah.blogspot.com/2016/12/conoha-advent-calendar-25conoha-api.html)
+
+## Windows Server
+* Windows Container
+  * 2018-04-25 [ConoHa が Windows Server に対応したので契約してみた](https://blog.shibayan.jp/entry/20180425/1524589641)
+
+* benchmark
+  * 2018-04-24 [ConoHa for Windows Server がリリースされたので、Windows Server 2016 の動作検証をしてみた](https://blog.oyasu.info/2018/04/24/6471/)
 
 ## user monitoring
 
 * zabbix
-  * http://www.zumwalt.info/blog/2015/12/conoha-0san/
-    - Zabbixでこのはちゃんを監視するお話
-    - 2015/12/23 / 2bobobo
+  * 2015/12/23, @2bobobo [Zabbixでこのはちゃんを監視するお話](http://www.zumwalt.info/blog/2015/12/conoha-0san/)
 
 * conoha API graph
-  * https://trap.jp/post/334/
-    - PrometheusでConoHa APIからメトリクスを取得してみる
-    - 2017/\
+  * 2017-12-14 [PrometheusでConoHa APIからメトリクスを取得してみる](https://trap.jp/post/334/)
 
-* billing API 
+* billing API monitoring
   * https://yoku0825.blogspot.com/2015/12/conohabilling-alert.html
   
-
-
 ## ConoHa1 to ConoHa2 migration or Cloud image migration
 
 * migration by dump
