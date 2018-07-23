@@ -1,8 +1,9 @@
 # awesome-ConoHa-cloud
 awesome ConoHa cloud
 
-<a id="index"></a>
-## <i class="fa fa-cube" style="font-size:1em;"></i>[menu](#menu)
+## menu
+
+[menu](#menu)
 
 * [about awesome](#about_awesome)
 * [History](#history)
@@ -23,7 +24,8 @@ awesome ConoHa cloud
 
 
 <div id="about_awesome"></div>
-## abount awesome
+
+## abount_awesome
 
 "awesome" とは?
 そのカテゴリについてのすごいリンク集
@@ -48,10 +50,13 @@ awesome ConoHa cloud
 
 [return to menu](#menu)
 
+
 <div id="history"></div>
+
 ## History
 
 <div name="before_conoha_birth"></div>
+
 ### Before ConoHa birth
 
 * vps VZ時代                                                                                                                          
