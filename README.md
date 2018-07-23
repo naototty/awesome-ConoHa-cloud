@@ -1,21 +1,62 @@
 # awesome-ConoHa-cloud
 awesome ConoHa cloud
 
+## abount awesome
+"awesome" とは?
+そのカテゴリについてのすごいリンク集
 
-## History / ConoHa1
+* ex) [asesome awesomes(開発系awesome)](https://github.com/fleveque/awesome-awesomes)
+
+* ex) [awesome asesome(githubの中のawesome)](https://github.com/athityakumar/awesome-awesomes)
+
+* ex) [awesome HANAMI(ruby lightweight MVC Framework)](https://qiita.com/park-jh/items/5ca1f48384fb5173cbb5)
+
+* ex) [awesome Cloud Native](https://jimmysong.io/awesome-cloud-native/)
+
+* ex) [A curated list for awesome OpenStack links!](https://github.com/ntk148v/awesome-openstack)
+
+* ex) [A curated list for awesome openstack links](https://github.com/ramitsurana/awesome-openstack)
 
 
-* 2013/07/04
-  * https://cloud.watch.impress.co.jp/docs/news/606431.html
-    * GMOインターネット、VPS新ブランド「ConoHa byGMO」を提供開始
-～IPv6、複数IPアドレス、ローカルネットワークに対応
-    - （2013/7/4 15:21）
-    - イメージキャラクター「美雲このは」初登場
 
-* 2013/10/04
-  * https://cloud.watch.impress.co.jp/docs/news/618167.html
-    * GMOインターネット、VPSサービス「ConoHa」のオプションサービスを値下げ
-    - （2013/10/4 13:18）
+## History / Before ConoHa birth
+
+* vps VZ時代                                                                                                                          
+  * (2009-09-17) [2009.09.17 【お知らせ】自由度と拡張性を追及した本格運用向けレンタルサーバー「VPS」を提供開始！](https://www.onamae.com/news/domain/090917.html)
+    - Virtuozzo(OpenVZ/Virtuozzo)ベースのContainer OS仮想化によるVPS
+
+* GMOアプリやろうぜ
+  * (2010-02-25) [GMO、「アプリやろうぜ！」プロジェクト開始
+総額3億円を掛けて開発者を支援](https://codezine.jp/article/detail/4973)
+    - Virtuozzo ~ libvirt + xen + GMO original controller時代
+
+* GMOアプリクラウド、リリース
+  * (2010-08-03) [GMOアプリクラウド　正式リリースしました](https://cloud.gmo.jp/news/10080300.html)
+
+* GMOアプリクラウド、ver2.0(KVM)リリース
+  * (2011-03-25) [Ver2.0 ＆ USデータセンター 提供開始しました](https://cloud.gmo.jp/news/11032500.html)
+
+* vps kvm
+  * (2012-03-22) [［VPS］ お名前.comの新VPS「KVMプラン」が正式リリース](https://www.onamae.com/news/domain/120321_5.html)
+  * (2012-03-22) [GMOインターネット、「お名前.com　レンタルサーバー VPS」、「KVMプラン」 正式提供開始～正式提供に合わせ、充実した新仮想専用サーバーとしてプラン内容を見直し～](https://japan.cnet.com/release/30016763/)
+
+* pixiv
+  * (2012-06-01) [pixivでGMOアプリクラウドの公式キャラクターを募集 - 内田真礼が声を担当](https://news.mynavi.jp/article/20120604-a020/)
+  * (2012-06-01) [「あなたのキャラを内田真礼が演じる！　GMOアプリクラウド公式キャラクター募集」応募作品一覧](https://www.pixiv.net/contest/gmo_appscloud.php)
+
+* K-OF 2012発表
+  * (2012-08-03) [2012 OpenStack + KVM = onamae.com VPS #2 ~ vnc and snapshot ~](https://www.slideshare.net/chroum/openstack-vpskvmonamecom2snapshot)
+
+* GMOアプリクラウド、美雲あんず
+  * (2012-09-20) (TGS2012: GMOインターネットのブースに痛車降臨！　ツインテールの美雲あんずがお待ちしてます。モデルキャラの声優は内田真礼さん。)(http://nlab.itmedia.co.jp/nl/articles/1209/20/news100.html)
+
+
+## History / ConoHa1 to Before ConoHa2
+
+
+* 2013/07/04 [GMOインターネット、VPS新ブランド「ConoHa byGMO」を提供開始～IPv6、複数IPアドレス、ローカルネットワークに対応、イメージキャラクター「美雲このは」初登場](https://cloud.watch.impress.co.jp/docs/news/606431.html
+ 
+* 2013/10/04 [GMOインターネット、VPSサービス「ConoHa」のオプションサービスを値下げ](https://cloud.watch.impress.co.jp/docs/news/618167.html)
 
 * 2013/12/26
   * https://cloud.watch.impress.co.jp/docs/news/629208.html
@@ -24,37 +65,30 @@ awesome ConoHa cloud
     - 「超亜空間防壁チーズ・ナポリタン」 アニメーション YouTube公開、コミケで5000人配布
     - http://www.mikumo.com/movie/
     
+* GMOアプリクラウド, OpenStack Havana
+  * (2014-04-22) [GMOアプリクラウド新サービス提供開始のお知らせ(OpenStack)](https://cloud.gmo.jp/news/14042200.html)
 
-* 2014/09/03
-  * https://japan.cnet.com/release/30079817/
-    * GMOインターネット：「ConoHa byGMO」で「オブジェクトストレージ」提供開始
-      * 2014年9月3日
+* ConoHa1, OpenStack Havana; Object Storage
+  * (2014/09/03) [GMOインターネット：「ConoHa byGMO」で「オブジェクトストレージ」提供開始](https://japan.cnet.com/release/30079817/)
 
 ## History / ConoHa2
 
-* 2015/05/18
-  * https://cloud.watch.impress.co.jp/docs/news/702382.html
-    * GMO、VPSサービス「ConoHa」をリニューアル、全ストレージにSSDを採用
-      - SSD 50GB
-      - 2 location
+* 2015/05/18 [GMO、VPSサービス「ConoHa」をリニューアル、全ストレージにSSDを採用, SSD 50GB, 3 location](https://cloud.watch.impress.co.jp/docs/news/702382.html)
 
-* 2015/10/29
-  * https://cloud.watch.impress.co.jp/docs/news/728111.html
-    * アセンテック、オールSSDの「ConoHa」を基盤として利用した仮想デスクトップサービス
+* 2015/10/29 [アセンテック、オールSSDの「ConoHa」を基盤として利用した仮想デスクトップサービス](https://cloud.watch.impress.co.jp/docs/news/728111.html)
 
-* 2016/10/28
-  * https://cloud.watch.impress.co.jp/docs/news/1027239.html
-    * GMOインターネット、VPSサービス「ConoHa」に月額630円の512MBプランを追加
+* 2015-10-27 [OpenStackSummit Tokyo 2015 に協賛決定。Aiming様 C Channel様と基調講演](https://cloud.gmo.jp/news/15102300.html)
+
+* 2016/10/28 [GMOインターネット、VPSサービス「ConoHa」に月額630円の512MBプランを追加](https://cloud.watch.impress.co.jp/docs/news/1027239.html)
     
-* 2017/06/30
-  * https://www.conoha.jp/news/?ap=2015051386
-    * 【リリース】APIを利用したVPS作成におけるスタートアップスクリプト機能追加
+* 2017/06/30 [【リリース】APIを利用したVPS作成におけるスタートアップスクリプト機能追加](https://www.conoha.jp/news/?ap=2015051386)
+
 
 ## このは 記事
 
 * 2013/12/29
-  * https://www.gmo.jp/news/article/?id=4374
     * GMO×スタジオカラー、フル3DCGショートアニメ「超亜空間防壁チーズ・ナポリタン」を公開
+  * https://www.gmo.jp/news/article/?id=4374
 
 * 2013/12/31
   * https://animeanime.jp/article/2013/12/31/16922.html
