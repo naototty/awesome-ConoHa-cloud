@@ -5,20 +5,20 @@ awesome ConoHa cloud
 
 * [about awesome](#about-awesome)
 * History
-  * [Before ConoHa birth](#Before-ConoHa-birth)
-  * [ConoHa1 to Before ConoHa2](#ConoHa1-to-Before-ConoHa2)
-  * [ConoHa2](#ConoHa2)
-* [the News of ConoHa chan](#the-News-of-ConoHa-chan)
-* [ConoHa events](#ConoHa-events)
-* [technical articles ConoHa1](#technical-articles-ConoHa1)
-* [technical articles and blogs ConoHa2](#technical-articles-and-blogs-ConoHa2)
-* [ConoHa Start-up script](#ConoHa-Start-up-script)
-* [Tools, ConoHa活用ツール](#Tools)
-* [Compairing, VPSの比較](#Compairing)
+  * [Before ConoHa birth](#before-conoHa-birth)
+  * [ConoHa1 to Before ConoHa2](#conoHa1-to-before-conoHa2)
+  * [ConoHa2](#conoHa2)
+* [the News of ConoHa chan](#the-news-of-conoHa-chan)
+* [ConoHa events](#conoHa-events)
+* [technical articles ConoHa1](#technical-articles-conoHa1)
+* [technical articles and blogs ConoHa2](#technical-articles-and-blogs-conoHa2)
+* [ConoHa Start-up script](#conoHa-start-up-script)
+* [Tools, ConoHa活用ツール](#tools)
+* [Compairing, VPSの比較](#compairing)
 * [installing, installing記事/blog](#installing)
 * [user monitoring, 監視設定記事](#user-monitoring)
-* [ConoHa1 to ConoHa2 migration or Cloud image migration, ConoHaのVPSマイグレーション記事](#ConoHa1-to-ConoHa2-migration-or-Cloud-image-migration)
-* [Advent Calender](#Advent-Calender)
+* [ConoHa1 to ConoHa2 migration or Cloud image migration, ConoHaのVPSマイグレーション記事](#conoHa1-to-conoHa2-migration-or-cloud-image-migration)
+* [Advent Calender](#advent-calender)
 
 ## abount awesome
 
