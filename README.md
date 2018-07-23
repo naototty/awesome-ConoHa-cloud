@@ -4,10 +4,10 @@ awesome ConoHa cloud
 <a id="index"></a>
 ## <i class="fa fa-cube" style="font-size:1em;"></i>[menu](#menu)
 
-* [about awesome](#about-awesome)
+* [about awesome](#about_awesome)
 * [History](#history)
-  * [Before ConoHa birth](#before-conoHa-birth)
-  * [ConoHa1 to Before ConoHa2](#conoHa1-to-before-conoHa2)
+  * [Before ConoHa birth](#before_conoHa_birth)
+  * [ConoHa1 to Before ConoHa2](#conoHa1_to_before_conoHa2)
   * [ConoHa2](#conoHa2)
 * [the News of ConoHa chan](#the-news-of-conoHa-chan)
 * [ConoHa events](#conoHa-events)
@@ -22,7 +22,7 @@ awesome ConoHa cloud
 * [Advent Calender](#advent-calender)
 
 
-<div id="about-awesome"></div>
+<div id="about_awesome"></div>
 ## abount awesome
 
 "awesome" とは?
@@ -51,7 +51,7 @@ awesome ConoHa cloud
 <div id="history"></div>
 ## History
 
-<div id="before-conoha-birth"></div>
+<div name="before_conoha_birth"></div>
 ### Before ConoHa birth
 
 * vps VZ時代                                                                                                                          
@@ -101,11 +101,15 @@ awesome ConoHa cloud
 
   * (2012-11-10) [K-OF 2012, Osaka: OpenStack + KVM = onamae.com VPS #2 ~ vnc and snapshot ~](https://www.slideshare.net/chroum/openstack-vpskvmonamecom2snapshot)
 
+* tenten.vn
+  * (2012-12-12) [tenten.vn VPS release](https://tenten.vn/tin-tuc/68-tenten-chinh-thuc-ra-mat-dich-vu-may-chu-ao-vps)
+
 * Opensource community発表
   * (2013-02-23) [OSC 2013 Spring Tokyo: OpenStack + KVM = お名前.com VPS ~開発担当者が語る、ここだけの裏話 2013~](https://www.slideshare.net/chroum/openstack-kvm-ipv6-onamecom-next-folsomgrizzly-service-development-status)
 
-[return to menu](#menu)
+             [return to menu](#menu)
 
+<div name="conoha1_to_before_conoha2"></div>
 ### ConoHa1 to Before ConoHa2
 
 * 2013/07/04 [GMOインターネット、VPS新ブランド「ConoHa byGMO」を提供開始～IPv6、複数IPアドレス、ローカルネットワークに対応、イメージキャラクター「美雲このは」初登場](https://cloud.watch.impress.co.jp/docs/news/606431.html
@@ -125,7 +129,9 @@ awesome ConoHa cloud
 * ConoHa1, OpenStack Havana; Object Storage
   * (2014/09/03) [GMOインターネット：「ConoHa byGMO」で「オブジェクトストレージ」提供開始](https://japan.cnet.com/release/30079817/)
 
+[return to menu](#menu)
 
+<div name="conoha2"></div>
 ### ConoHa2
 
 * 2015/05/18 [GMO、VPSサービス「ConoHa」をリニューアル、全ストレージにSSDを採用, SSD 50GB, 3 location](https://cloud.watch.impress.co.jp/docs/news/702382.html)
