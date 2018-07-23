@@ -1,6 +1,11 @@
 # awesome-ConoHa-cloud
 awesome ConoHa cloud
 
+## <i class="fa fa-cube" style="font-size:1em;"></i>[menu](#menu)
+
+* [about awesome](#abount awesome)
+* [History / Before ConoHa birth](#History / Before ConoHa birth)
+
 ## abount awesome
 "awesome" とは?
 そのカテゴリについてのすごいリンク集
@@ -17,7 +22,7 @@ awesome ConoHa cloud
 
 * ex) [A curated list for awesome openstack links](https://github.com/ramitsurana/awesome-openstack)
 
-
+[return to menu](#menu)
 
 ## History / Before ConoHa birth
 
@@ -50,6 +55,7 @@ awesome ConoHa cloud
 * GMOアプリクラウド、美雲あんず
   * (2012-09-20) (TGS2012: GMOインターネットのブースに痛車降臨！　ツインテールの美雲あんずがお待ちしてます。モデルキャラの声優は内田真礼さん。)(http://nlab.itmedia.co.jp/nl/articles/1209/20/news100.html)
 
+[return to menu](#menu)
 
 ## History / ConoHa1 to Before ConoHa2
 
