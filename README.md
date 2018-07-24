@@ -5,27 +5,31 @@ awesome ConoHa cloud
 
 [menu](#menu)
 
-* [about awesome](#about_awesome)
-* [History](#history)
-  * [Before ConoHa birth](#before_conoha_birth)
-  * [ConoHa1 to Before ConoHa2](#conoha1_to_before_conoha2)
-  * [ConoHa2](#conoha2)
-* [the News of ConoHa chan](#the_news_of_conoha_chan)
-* [ConoHa events](#conoha_events)
-* [technical articles ConoHa1](#technical-articles-conoha1)
-* [technical articles and blogs ConoHa2](#technical-articles-and-blogs-conoha2)
-* [ConoHa Start-up script](#conoha-start-up-script)
-* [Tools, ConoHa活用ツール](#tools)
-* [Compairing, VPSの比較](#compairing)
-* [installing, installing記事/blog](#installing)
-* [user monitoring, 監視設定記事](#user-monitoring)
-* [ConoHa1 to ConoHa2 migration or Cloud image migration, ConoHaのVPSマイグレーション記事](#conoha1-to-conoha2-migration-or-cloud-image-migration)
-* [Advent Calender](#advent-calender)
+- [awesome-ConoHa-cloud](#awesome-conoha-cloud)
+  - [menu](#menu)
+  - [abount awesome](#abount-awesome)
+  - [History](#history)
+    - [Before ConoHa birth, ConoHa誕生以前](#before-conoha-birth)
+    - [ConoHa1 to Before ConoHa2, ConoHa1時代](#conoha1-to-before-conoha2)
+    - [ConoHa2, ConoHa2時代から現在まで](#conoha2)
+  - [the News of ConoHa chan, このはちゃん](#the-news-of-conoha-chan)
+  - [ConoHa events, ConoHaこれまでのイベント](#conoha-events)
+  - [technical articles ConoHa1, ConoHa1技術記事](#technical-articles-conoha1)
+  - [technical articles and blogs ConoHa2, ConoHa2技術記事](#technical-articles-and-blogs-conoha2)
+  - [ConoHa Start-up script](#conoha-start-up-script)
+  - [Tools, ConoHa活用ツール](#tools)
+  - [Compairing, VPS比較記事](#compairing)
+  - [installing, install記事](#installing)
+  - [Linux Desktop, Linux Desktop記事](#linux-desktop)
+  - [Windows Server, Windows Server記事](#windows-server)
+  - [user monitoring, 監視設定記事](#user-monitoring)
+  - [ConoHa cloud migration, ConoHaのVPSマイグレーション記事](#conoha-cloud-migration)
+  - [Advent Calender](#advent-calender)
 
 
 <div id="about_awesome"></div>
 
-## abount_awesome
+## abount awesome
 
 "awesome" とは?
 そのカテゴリについてのすごいリンク集
@@ -49,12 +53,11 @@ awesome ConoHa cloud
 
 
 [return to menu](#menu)
-
-
 <div id="history"></div>
 
 ## History
 
+[return to menu](#menu)
 <div id="before_conoha_birth"></div>
 
 ### Before ConoHa birth
@@ -112,8 +115,8 @@ awesome ConoHa cloud
 * Opensource community発表
   * (2013-02-23) [OSC 2013 Spring Tokyo: OpenStack + KVM = お名前.com VPS ~開発担当者が語る、ここだけの裏話 2013~](https://www.slideshare.net/chroum/openstack-kvm-ipv6-onamecom-next-folsomgrizzly-service-development-status)
 
-[return to menu](#menu)
 
+[return to menu](#menu)
 <div id="conoha1_to_before_conoha2"></div>
 
 ### ConoHa1 to Before ConoHa2
@@ -135,8 +138,8 @@ awesome ConoHa cloud
 * ConoHa1, OpenStack Havana; Object Storage
   * (2014/09/03) [GMOインターネット：「ConoHa byGMO」で「オブジェクトストレージ」提供開始](https://japan.cnet.com/release/30079817/)
 
-[return to menu](#menu)
 
+[return to menu](#menu)
 <div id="conoha2"></div>
 
 ### ConoHa2
@@ -153,7 +156,6 @@ awesome ConoHa cloud
 
 
 [return to menu](#menu)
-
 <div id="the_news_of_conoha_chan"></div>
 
 ## the News of ConoHa chan
@@ -164,8 +166,8 @@ awesome ConoHa cloud
 
 * 2014/05/25 [「公式」 美雲このはの斜め上いくコミュニティ](http://com.nicovideo.jp/community/co2392550?ref=search_tag_co)
 
-[return to menu](#menu)
 
+[return to menu](#menu)
 <div id="conoha_event"></div>
 
 ## ConoHa events
@@ -179,58 +181,38 @@ awesome ConoHa cloud
 * case study
   * (2017-05 ~ ) [けーすた！ CASE STUDY LIGHTNING TALK](https://casestudy.connpass.com/)
 
-[return to menu](#menu)
 
+[return to menu](#menu)
 <div id="technical_articles_conoha1"></div>
 
 ## technical articles ConoHa1
 
-* 2013/07/31
-  * https://internet.watch.impress.co.jp/docs/column/conoha/609575.html
-    * VPS同士をLANで接続～「ローカルネットワーク」機能を試す
+* 2013/07/31 [VPS同士をLANで接続～「ローカルネットワーク」機能を試す](https://internet.watch.impress.co.jp/docs/column/conoha/609575.html)
      
-* 2013/07/30
-  * https://internet.watch.impress.co.jp/docs/column/conoha/609426.html
-    * IPv4アドレスの追加とIPv6アドレスの利用を試す
+* 2013/07/30 [IPv4アドレスの追加とIPv6アドレスの利用を試す](https://internet.watch.impress.co.jp/docs/column/conoha/609426.html)
 
-* 2013/07/29
-  * https://internet.watch.impress.co.jp/docs/column/conoha/609011.html
-    * いつでも自由にVPSを作成～コントロールパネルの使い勝手を試す
+* 2013/07/29 [いつでも自由にVPSを作成～コントロールパネルの使い勝手を試す](https://internet.watch.impress.co.jp/docs/column/conoha/609011.html)
 
-* 2013/07/22
-  * https://internet.watch.impress.co.jp/docs/column/conoha/608097.html
-    * 開発者に聞く～自由な構成が可能な新VPSサービス「ConoHa」とは
-「ITエンジニアの方に使って欲しくて作った」GMOの新VPSブランド
+* 2013/07/22 [開発者に聞く～自由な構成が可能な新VPSサービス「ConoHa」とは, 「ITエンジニアの方に使って欲しくて作った」GMOの新VPSブランド](https://internet.watch.impress.co.jp/docs/column/conoha/608097.html)
+
 
 [return to menu](#menu)
-
 <div id="technical_articles_and_blogs_conoha2"></div>
 
 ## technical articles and blogs ConoHa2
 
-* 2018/04/18
-  * https://www.gmo.jp/report/single/?art_id=226
-    * 第216回 PowerShellでConoHaをどうにかしてみる-Vol.3
-ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管理
+* PowerShell for RESTful API clien                                    t
+  * 2018/02/21 [第214回 PowerShellでConoHaをどうにかしてみる-Vol.1, ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管理](https://www.gmo.jp/report/single/?art_id=224)
 
-* 2018/03/28
-  * https://www.gmo.jp/report/single/?art_id=225
-    * 第215回 PowerShellでConoHaをどうにかしてみる-Vol.2
-ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管理
+  * 2018/03/28 [第215回 PowerShellでConoHaをどうにかしてみる-Vol.2, ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管理](https://www.gmo.jp/report/single/?art_id=225)
 
-* 2018/02/21
-  * https://www.gmo.jp/report/single/?art_id=224
-    * 第214回 PowerShellでConoHaをどうにかしてみる-Vol.1
-ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管理
+  * 2018/04/18 [第216回 PowerShellでConoHaをどうにかしてみる-Vol.3, ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管理](https://www.gmo.jp/report/single/?art_id=226)
 
-* 2018/02/06
-  * https://syobon.jp/2018/02/06/minecraft-server-on-conoha/
-    * Minecraft サーバーをConoHaで簡単構築！規模にあわせた最適なプランを選ぶには | しょぼんブログ
-    * Minecraftサーバーテンプレート
+* Minecraftサーバーテンプレート
+  * 2018/02/06 [Minecraft サーバーをConoHaで簡単構築！規模にあわせた最適なプランを選ぶには | しょぼんブログ](https://syobon.jp/2018/02/06/minecraft-server-on-conoha/) 
 
 
 [return to menu](#menu)
-
 <div id="conoha_start_up_script"></div>
 
 ## ConoHa Start-up script
@@ -243,6 +225,10 @@ ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管
 
 * 2017/07/05 [ConoHa のスタートアップスクリプトを使って VM を作成してみた（CentOS 7 編）](https://blog.oyasu.info/2017/07/05/5906/)
 
+
+
+[return to menu](#menu)
+<div id="tools"></div>
 
 ## Tools
 
@@ -293,7 +279,7 @@ ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管
   * https://akichan.lolipop.io/2018/03/18/terrafromconoha/
   
 
-* CLI nova
+* CLI nova client
   * https://sirrow.info/archives/556
 
 
@@ -301,21 +287,6 @@ ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管
   * https://github.com/ezaki/chap
     - CHAP - ConoHa API for PHP
     - 6 Jan 2016 / ezaki
-
-* API by PowerShell
-  * https://www.gmo.jp/report/single/?art_id=224
-    - PowerShellでConoHaをどうにかしてみる-Vol.1
-    - ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管理
-    - 2018年2月21日(水)公開 / 樋口 勝一
-
-  * https://www.gmo.jp/report/single/?art_id=225
-    - PowerShellでConoHaをどうにかしてみる-Vol.2
-    - 2018年3月28日(水)公開 / 樋口 勝一
-
-  * https://www.gmo.jp/report/single/?art_id=226
-    - PowerShellでConoHaをどうにかしてみる-Vol.3
-    - 2018年4月18日(水)公開 / 樋口 勝一
-
 
 * ConoHa DNS
   * https://access-jp.co.jp/blogs/development/234
@@ -356,6 +327,9 @@ ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管
     - 2015/11/?? phpとmysql が使えるレンタルサーバー・ドメイン選びのポイント
 
 
+[return to menu](#menu)
+<div id="installing"></div>
+
 ## installing
 
 * wordpress
@@ -369,10 +343,16 @@ ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管
   * [concrete5アプリケーションイメージの使い方](https://www.conoha.jp/guide/concrete5.php)
 
 
+[return to menu](#menu)
+<div id="linux_desktop"></div>
+
 ## Linux Desktop
 * Linux desktop
   * [ConoHa Advent Calendar 25日目：ConoHa APIで、このはシンクライアントを試作する](http://shimadah.blogspot.com/2016/12/conoha-advent-calendar-25conoha-api.html)
 
+
+[return to menu](#menu)
+<div id="windows_server"></div>
 
 ## Windows Server
 * Windows Container
@@ -381,6 +361,9 @@ ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管
 * benchmark
   * 2018-04-24 [ConoHa for Windows Server がリリースされたので、Windows Server 2016 の動作検証をしてみた](https://blog.oyasu.info/2018/04/24/6471/)
 
+
+[return to menu](#menu)
+<div id="user_monitoring"></div>
 
 ## user monitoring
 
@@ -394,7 +377,10 @@ ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管
   * https://yoku0825.blogspot.com/2015/12/conohabilling-alert.html
 
 
-## ConoHa1 to ConoHa2 migration or Cloud image migration
+[return to menu](#menu)
+<div id="conoha_cloud_migration"></div>
+
+## ConoHa cloud migration
 
 * migration by dump
   * http://www.zumwalt.info/blog/2015/05/migrate_newconoha/
@@ -412,6 +398,9 @@ ConoHa APIを使ってPowerShellのオリジナルコマンドでサーバー管
     - 2018/01/11 / maco
 
 
+
+[return to menu](#menu)
+<div id="advent_calender"></div>
 
 ## Advent Calender
 
