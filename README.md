@@ -166,6 +166,19 @@ awesome ConoHa cloud
 
 * 2014/05/25 [「公式」 美雲このはの斜め上いくコミュニティ](http://com.nicovideo.jp/community/co2392550?ref=search_tag_co)
 
+* [youtube このはチャンネル  Vtuber美雲このは](https://www.youtube.com/c/ConoHaChannel)
+
+* [twitter 美雲このは](https://twitter.com/MikumoConoHa)
+
+* [blog 美雲このは](http://conoha.mikumo.com/blog/)
+
+* [comic 美雲このは 4コマ漫画](http://conoha.mikumo.com/comic/)
+  - 薄い本が作れるくらい話数が増えていく
+
+* [美雲あんず](https://cloud.gmo.jp/anzu/)
+
+* [twitter 美雲あんず](https://twitter.com/mikumoanzu)
+
 
 [return to menu](#menu)
 <div id="conoha_event"></div>
