@@ -9,21 +9,21 @@ awesome ConoHa cloud
   - [menu](#menu)
   - [abount awesome](#abount-awesome)
   - [History](#history)
-    - [Before ConoHa birth, ConoHa誕生以前](#before-conoha-birth)
-    - [ConoHa1 to Before ConoHa2, ConoHa1時代](#conoha1-to-before-conoha2)
-    - [ConoHa2, ConoHa2時代から現在まで](#conoha2)
-  - [the News of ConoHa chan, このはちゃん](#the-news-of-conoha-chan)
-  - [ConoHa events, ConoHaこれまでのイベント](#conoha-events)
-  - [technical articles ConoHa1, ConoHa1技術記事](#technical-articles-conoha1)
-  - [technical articles and blogs ConoHa2, ConoHa2技術記事](#technical-articles-and-blogs-conoha2)
+    - [Before ConoHa birth](#before-conoha-birth)
+    - [ConoHa1 to Before ConoHa2](#conoha1-to-before-conoha2)
+    - [ConoHa2](#conoha2)
+  - [the News of ConoHa chan](#the-news-of-conoha-chan)
+  - [ConoHa events](#conoha-events)
+  - [technical articles ConoHa1](#technical-articles-conoha1)
+  - [technical articles and blogs ConoHa2](#technical-articles-and-blogs-conoha2)
   - [ConoHa Start-up script](#conoha-start-up-script)
-  - [Tools, ConoHa活用ツール](#tools)
-  - [Compairing, VPS比較記事](#compairing)
-  - [installing, install記事](#installing)
-  - [Linux Desktop, Linux Desktop記事](#linux-desktop)
-  - [Windows Server, Windows Server記事](#windows-server)
-  - [user monitoring, 監視設定記事](#user-monitoring)
-  - [ConoHa cloud migration, ConoHaのVPSマイグレーション記事](#conoha-cloud-migration)
+  - [Tools](#tools)
+  - [Compairing](#compairing)
+  - [installing](#installing)
+  - [Linux Desktop](#linux-desktop)
+  - [Windows Server](#windows-server)
+  - [user monitoring](#user-monitoring)
+  - [ConoHa cloud migration](#conoha-cloud-migration)
   - [Advent Calender](#advent-calender)
 
 
@@ -60,6 +60,8 @@ awesome ConoHa cloud
 [return to menu](#menu)
 <div id="before_conoha_birth"></div>
 
+ConoHaのすごいHistory
+
 ### Before ConoHa birth
 
 * vps VZ時代                                                                                                                          
@@ -67,8 +69,7 @@ awesome ConoHa cloud
     - Virtuozzo(OpenVZ/Virtuozzo)ベースのContainer OS仮想化によるVPS
 
 * GMOアプリやろうぜ
-  * (2010-02-25) [GMO、「アプリやろうぜ！」プロジェクト開始
-総額3億円を掛けて開発者を支援](https://codezine.jp/article/detail/4973)
+  * (2010-02-25) [GMO、「アプリやろうぜ！」プロジェクト開始 総額3億円を掛けて開発者を支援](https://codezine.jp/article/detail/4973)
     - Virtuozzo ~ libvirt + xen + GMO original controller時代
 
 * GMOアプリクラウド、リリース
@@ -105,7 +106,7 @@ awesome ConoHa cloud
   * (2012-08-03) [OSC 2012 Kyoto: OpenStack + KVM = お名前.com VPS ~開発担当者が語る、ここだけの裏話~](https://www.slideshare.net/chroum/2012-osc-kyoto-openstack-vps-kvm)
 
 * GMOアプリクラウド、美雲あんず
-  * (2012-09-20) (TGS2012: GMOインターネットのブースに痛車降臨！　ツインテールの美雲あんずがお待ちしてます。モデルキャラの声優は内田真礼さん。)(http://nlab.itmedia.co.jp/nl/articles/1209/20/news100.html)
+  * (2012-09-20) TGS2012: GMOインターネットのブースに痛車降臨！　ツインテールの美雲あんずがお待ちしてます。モデルキャラの声優は内田真礼さん。)(http://nlab.itmedia.co.jp/nl/articles/1209/20/news100.html)
 
   * (2012-11-10) [K-OF 2012, Osaka: OpenStack + KVM = onamae.com VPS #2 ~ vnc and snapshot ~](https://www.slideshare.net/chroum/openstack-vpskvmonamecom2snapshot)
 
@@ -121,16 +122,13 @@ awesome ConoHa cloud
 
 ### ConoHa1 to Before ConoHa2
 
-* 2013/07/04 [GMOインターネット、VPS新ブランド「ConoHa byGMO」を提供開始～IPv6、複数IPアドレス、ローカルネットワークに対応、イメージキャラクター「美雲このは」初登場](https://cloud.watch.impress.co.jp/docs/news/606431.html
+* 2013/07/04 [GMOインターネット、VPS新ブランド「ConoHa byGMO」を提供開始～IPv6、複数IPアドレス、ローカルネットワークに対応、イメージキャラクター「美雲このは」初登場](https://cloud.watch.impress.co.jp/docs/news/606431.html)
  
 * 2013/10/04 [GMOインターネット、VPSサービス「ConoHa」のオプションサービスを値下げ](https://cloud.watch.impress.co.jp/docs/news/618167.html)
 
 * 2013/12/26
-  * https://cloud.watch.impress.co.jp/docs/news/629208.html
-    * GMO、VPSとクラウドサービスの公式キャラアニメを公開～冬コミで配布も
-    - （2013/12/26 15:07）
-    - 「超亜空間防壁チーズ・ナポリタン」 アニメーション YouTube公開、コミケで5000人配布
-    - http://www.mikumo.com/movie/
+    * [GMO、VPSとクラウドサービスの公式キャラアニメを公開～冬コミで配布も](https://cloud.watch.impress.co.jp/docs/news/629208.html)
+    - [「超亜空間防壁チーズ・ナポリタン」 アニメーション YouTube公開、コミケで5000人配布](http://www.mikumo.com/movie/)
     
 * GMOアプリクラウド, OpenStack Havana
   * (2014-04-22) [GMOアプリクラウド新サービス提供開始のお知らせ(OpenStack)](https://cloud.gmo.jp/news/14042200.html)
