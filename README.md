@@ -254,10 +254,14 @@ ConoHaのすごいHistory
 * ConoHa ISO CLI (golang) @hironobu-s
   * [github: ConoHa ISO CLI (golang binary) @hironobu-s](https://github.com/hironobu-s/conoha-iso)
   
-
-* ConoHa novassh console CLI (golang) @hironobu-s
+* ConoHa "novassh" vm serial console CLI (golang) @hironobu-s
   * https://github.com/hironobu-s/novassh
-  
+
+* OpenStack "novaconsole" vm serial console CLI
+  * [github: This is a simple client for connecting to the remote serial console of an OpenStack Nova server](https://github.com/larsks/novaconsole)
+
+* OpenStack "novaconsole" CLI (blog, Mon 22 December 2014 by Lars Kellogg-Stedman)
+  * [blog: Accessing the serial console of your Nova servers](http://blog.oddbit.com/2014/12/22/accessing-the-serial-console-of-your-nova-servers/) 
 
 * ConoHa dns CLI (node.js) @N4RU5E
   * https://narusejun.com/archives/14/
@@ -289,10 +293,8 @@ ConoHaのすごいHistory
 * Terraform ConoHa
   * https://akichan.lolipop.io/2018/03/18/terrafromconoha/
   
-
 * CLI nova client
   * https://sirrow.info/archives/556
-
 
 * ConoHa API
   * https://github.com/ezaki/chap
